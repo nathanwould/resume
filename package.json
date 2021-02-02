@@ -1,0 +1,17 @@
+{
+  "name": "nathan-would-resume",
+  "version": "1.0.0",
+  "description": "resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "resume-me": "./index.js"
+  }
+}
